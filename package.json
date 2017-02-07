@@ -1,14 +1,14 @@
 {
-  "name": "vue-bulma-card",
+  "name": "vue-idg-card",
   "version": "1.0.1",
-  "description": "Card component for Vue Bulma",
+  "description": "Card component for Vue IDG",
   "main": "src/index.js",
   "peerDependencies": {
     "bulma": "^0.2",
     "vue": ">=2.0.0-beta.0"
   },
   "scripts": {},
-  "repository": "git@github.com:vue-bulma/card.git",
+  "repository": "git@github.com:vue-idg/card.git",
   "keywords": [
     "vue",
     "bulma",
